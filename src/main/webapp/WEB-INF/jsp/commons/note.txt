@@ -1,0 +1,2 @@
+<fmt:formatDate value="${session_user.userCreateTime }" pattern="yyyy-MM-dd HH:mm:ss" />
+		
